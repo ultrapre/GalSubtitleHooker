@@ -6,6 +6,12 @@ effect：run game with auto subtitle. support auto, skip and jump etc action.
 ![1574867581397](assets/1574867581397.png)
 
 
+Download:
+
+v4.7.4 https://github.com/ultrapre/GalgameSubtitleHooker/releases/tag/v4.7.4
+
+v4.14.1 https://github.com/ultrapre/GalgameSubtitleHooker/releases/tag/v4.14.1
+
 
 How to Use:
 
