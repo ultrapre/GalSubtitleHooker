@@ -8,9 +8,17 @@ effect：run game with auto subtitle. support auto, skip and jump etc action.
 
 Download:
 
-v4.7.4 https://github.com/ultrapre/GalgameSubtitleHooker/releases/tag/v4.7.4
+Qt重制 测试版本（双架构）
+
+https://github.com/silas1037/Textractor/releases/tag/vSilas0.1
+
+新版本 （仅x86）
 
 v4.14.1 https://github.com/ultrapre/GalgameSubtitleHooker/releases/tag/v4.14.1
+
+旧版本 （仅x86）
+
+v4.7.4 https://github.com/ultrapre/GalgameSubtitleHooker/releases/tag/v4.7.4
 
 
 How to Use:
