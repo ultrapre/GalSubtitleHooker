@@ -1,5 +1,5 @@
-# GalgameSubtitleHooker
-use local translation file to output subtitle on screen when hooking out text from Galgame.
+# VnSubtitleHooker
+use local translation file to output subtitle on screen when hooking out text from vn-game.
 
 effect：run game with auto subtitle. support auto, skip and jump etc action.
 
@@ -12,11 +12,11 @@ https://github.com/silas1037/Textractor/releases/tag/vSilas0.1
 
 新版本 （仅x86）
 
-v4.14.1 https://github.com/ultrapre/GalgameSubtitleHooker/releases/tag/v4.14.1
+v4.14.1 https://github.com/ultrapre/VnSubtitleHooker/releases/tag/v4.14.1
 
 旧版本 （仅x86）
 
-v4.7.4 https://github.com/ultrapre/GalgameSubtitleHooker/releases/tag/v4.7.4
+v4.7.4 https://github.com/ultrapre/VnSubtitleHooker/releases/tag/v4.7.4
 
 
 How to Use:
