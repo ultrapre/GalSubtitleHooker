@@ -3,8 +3,6 @@ use local translation file to output subtitle on screen when hooking out text fr
 
 effect：run game with auto subtitle. support auto, skip and jump etc action.
 
-![1574867581397](assets/1574867581397.png)
-
 
 Download:
 
